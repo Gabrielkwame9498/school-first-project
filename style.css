@@ -159,6 +159,8 @@ header nav ul li a:hover {
 
 .container-content {
    background-image: url(health.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
     min-height: 90vh;
     display: flexbox;
     align-items: center;
