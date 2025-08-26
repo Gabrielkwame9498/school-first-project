@@ -161,7 +161,7 @@ header nav ul li a:hover {
    background-image: url(health.jpeg);
    background-repeat: no-repeat;
    background-size: cover;
-    min-height: 80vh;
+    min-height: 50vh;
     display: flexbox;
     align-items: center;
     justify-content: center;
